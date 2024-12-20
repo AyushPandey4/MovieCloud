@@ -1,13 +1,3 @@
-GIT SETUP 
-1) MAKE A REPO IN GIT FIRST AND INCLUDE README.md 
-2) OPEN THE PROJECT IN VS CODE 
-3) OPEN TERMINAL OF VS CODE BUT WITH GIT BASH (CLICK ON THAT + ICON AND CHOOSE GIT BASH THERE)
-4) RUN THE FOLLOWING CODE 
-	git init
-	git add .
-	git status 
-	git commit -m "commited"# MovieCloud
-
 MovieCloud is a web application built using React and Vite, allowing users to search for movies, view movie details, and manage their watchlist and favorites. The app fetches movie data from a public movie database API.
 
 ## Features
